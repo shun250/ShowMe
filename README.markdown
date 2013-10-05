@@ -4,3 +4,6 @@ Current featuers include:
 User authentication
 Notification
 Single level comments
+
+
+Pagination and Voting is next
